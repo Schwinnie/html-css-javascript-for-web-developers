@@ -1,0 +1,46 @@
+body {
+	font-size: 16px;
+	font-family: 'Roboto', sans-serif;
+	background-color: #000;
+	color: #fff;
+}
+
+.navbar-header {
+	height:100px;
+}
+
+.navbar-header button {
+	margin-top: 30px;
+}
+
+#nav-list a {
+	background-color: #202020;
+	color: #fff;
+}
+
+#menu-title {
+	text-transform: capitalize;
+}
+
+#main-content section {
+	margin: 0 15px 0 15px;
+	height: 1000px;
+}
+
+#food-items div {
+	background-color: green;
+	color: black;
+	margin: 20px 0 20px 0;
+}
+
+#food-items span {
+	display: block;
+	text-align: center;
+	text-transform: capitalize;
+	font-size: 1.2em;
+	padding: 5px;
+}
+
+#food-items p {
+	padding: 5px;
+}
